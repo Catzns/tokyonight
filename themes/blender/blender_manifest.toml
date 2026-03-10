@@ -19,7 +19,7 @@ blender_version_min = "5.0.0"
 
 license = [
     "SPDX:MIT",
-    "SPDX:Apache-2.0",
+    # "SPDX:Apache-2.0",
 ]
 copyright = [
     "2018 Enkia",

@@ -1,0 +1,28 @@
+schema_version = "1.0.0"
+
+id = "tokyonight"
+version = "1.0.0"
+name = "Tokyo Night"
+tagline = "A dark, low-contrast pale theme inspired by the skyline of Tokyo"
+
+maintainer = "Catzs"
+type = "theme"
+
+website = "https://github.com/Catzns/tokyonight/"
+
+tags = [
+    "Dark",
+    "Inspired By",
+]
+
+blender_version_min = "5.0.0"
+
+license = [
+    "SPDX:MIT",
+    "SPDX:Apache-2.0",
+]
+copyright = [
+    "2018 Enkia",
+    "2021 folke",
+    "2026 Catzs",
+]
